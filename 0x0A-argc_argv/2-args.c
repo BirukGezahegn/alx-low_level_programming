@@ -42,4 +42,4 @@ void print_array_elements(char *str)
 		_putchar(str[i]);
 		i++;
 	}
-
+}
