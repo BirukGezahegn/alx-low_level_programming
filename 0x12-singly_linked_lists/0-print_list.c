@@ -3,7 +3,7 @@
 
 /**
  * print_list - prints to standard output
- * A node in list_t
+ * @h: A node in list_t
  * Return: The number of nodes
  */
 
