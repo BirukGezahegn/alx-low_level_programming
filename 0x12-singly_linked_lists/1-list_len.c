@@ -3,7 +3,7 @@
 
 /**
  * list_len - Prints the number of elements in a linked list
- * Pointer to the head node of the linked list
+ * @h: Pointer to the head node of the linked list
  * Return: size_t, the number of nodes in a linked list
  */
 
